@@ -5,6 +5,7 @@ This is my repository to show the Machine Learning projects I've worked on.
 
 ---------------------------------------------------------
 This repository is divided in the following categories:
+
 (Some of them are still under development)
 
 - __Regression__
